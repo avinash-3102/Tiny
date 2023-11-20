@@ -1,9 +1,6 @@
+Deployment link :  https://avinash-94.netlify.app/
 
-# Profile Screen
-A profile screen created using ReactJS for the task of Terribly Tiny Tales.
-
-### Weblink: [Live Website](https://benju2205-ttt.onrender.com)
-## Some Images:
+##  Images:
 <div style="display: flex;">
 <img width="450px;" src="https://github.com/Benju2205/terribly_tiny_tales/assets/120126423/08f134c6-0424-4200-939e-5d8c4fe80d39" style="width: 300px; height: 450px; object-fit: cover; margin-right: 10px;"/>
 <img width="450px;" src="https://github.com/Benju2205/terribly_tiny_tales/assets/120126423/2a2a55db-d8f6-498d-8c78-4f657f700864" style="width: 450px; height: 450px; object-fit: cover; margin-right: 10px;"/>
@@ -12,7 +9,7 @@ A profile screen created using ReactJS for the task of Terribly Tiny Tales.
 </div>
 
 
-## Table of Contents
+##  Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies/Libraries Used](#technologies-used)
@@ -21,8 +18,7 @@ A profile screen created using ReactJS for the task of Terribly Tiny Tales.
 - [Installation](#installation)
 - [Feedback and Contributions](#contributions)
 
-## Introduction
-This app is created for the task given by Terribly Tiny Tales for the recruitment process for the role of Frontend Developer intern.
+
 
 ## Features
 - **Responsive Design**: The profile screen adapts seamlessly to various screen sizes, ensuring a consistent and user-friendly experience across devices.
@@ -83,8 +79,4 @@ To run this portfolio locally, follow these steps:
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
 
-## Feedback and Contributions
-- If you have any feedback, suggestions, or bug reports, please create an issue in the repository.
-
-- Contributions are welcome! If you'd like to contribute to this project, fork the repository, make your changes, and submit a pull request.
 
