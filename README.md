@@ -70,13 +70,5 @@ Deployment link :  https://avinash-94.netlify.app/
 - **react@18.2.0**: Core React library.
 - **react-scripts@5.0.1**: React scripts for development.
 
-## Installation
-To run this portfolio locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/Benju2205/New-Portfolio.git`
-2. Navigate to the project directory: `cd profile-screen`
-3. Install the dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and visit: `http://localhost:3000`
 
 
